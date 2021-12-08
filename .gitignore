@@ -1,3 +1,6 @@
 __pycache__/
 config.json
-
+used_posts.pkl
+outs.*
+*.egg-info/
+.tox/

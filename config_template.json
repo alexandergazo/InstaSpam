@@ -1,0 +1,16 @@
+{
+    "reddit": {
+        "login": {
+            "client_id": "",
+            "client_secret": "",
+            "user_agent": ""
+        },
+        "used_posts_set": "used_posts.pkl"
+    },
+    "unsplash": {
+        "client_id": ""
+    },
+    "cuttly": {
+        "api_key": ""
+    }
+}
